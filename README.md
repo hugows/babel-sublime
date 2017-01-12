@@ -54,7 +54,7 @@ Sublime Text Color Schemes which are ready for JavaScript's new features and bab
 
 [![](https://raw.githubusercontent.com/voronianski/babel-sublime/master/screenshots/oceanic-next.png)](https://github.com/voronianski/oceanic-next-theme)
 
-(The [Cobalt2 theme](https://github.com/wesbos/cobalt2) matches this color scheme nicely.
+(The [Cobalt2 theme](https://github.com/wesbos/cobalt2) matches this color scheme nicely.)
 
 #### [Zeus Color Scheme](https://github.com/zaynali53/Zeus-Theme)
 
